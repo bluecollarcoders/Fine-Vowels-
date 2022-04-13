@@ -1,4 +1,4 @@
-# Fine-Vowels-
+# Find-Vowels-
 
 ## Problem
 
